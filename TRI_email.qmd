@@ -1,0 +1,30 @@
+---
+title: "Email Marketing Micro-Internship"
+editor: visual
+---
+
+## **❓ Objectives**
+
+Improve email engagement and increase click-through rate (CTR)
+
+## **⚙️ Approach**
+
+- Reviewed and evaluated previously sent client emails for layout, tone, structure, and CTAs
+
+- Subscribed to and analyzed competitor email newsletters to identify best practices
+
+- Synthesized insights into actionable design and content strategies
+
+## **❗️Limitations**
+
+- No access to backend performance metrics (e.g., open rate, CTR)
+- Not enough time to conduct A/B testing or implement changes for validation
+
+## **📈 Results**
+
+- Delivered over 10 customized recommendations to improve email clarity, visual structure, and call-to-action effectiveness
+- Suggestions included optimized subject lines, content hierarchy, visual emphasis on buttons, and segmentation-based messaging strategies
+
+::: {style="text-align: right;"}
+[Back to Marketing Analytics](marketing-analytics.qmd)
+:::

@@ -1,0 +1,33 @@
+---
+title: "Digital Marketing Projects"
+format: html
+---
+
+This section showcases digital marketing projects where I applied strategic thinking, consumer analysis, and creative execution:
+
+-   **Coffee Shop Marketing Strategy** – A segmentation-focused project that analyzes post-pandemic coffee consumer behavior using clustering and predictive modeling (in progress)
+
+-   **Local Brand Social Media Growth** – A campaign-based project that improved a local brand’s online presence, achieving a 65% increase in followers and 583% growth in post reach
+
+These projects demonstrate my ability to connect data, creativity, and planning in real-world marketing scenarios.
+
+::: project-card-textonly
+### Digital Marketing Strategy for a Coffee Shop - Graduate Project
+
+*In Progress*
+
+A data-driven marketing project aimed at understanding post-pandemic coffee consumer behaviors. Using psychological and behavioral variables, this project applies clustering and predictive modeling to uncover audience insights for better targeting strategies.
+
+[🔗 View Full Project](project-vivot.qmd)
+:::
+
+::: project-card-textonly
+### Bachelor Graduate Marketing Project
+
+**Local Brand Social Media Growth**\
+*Apr 2022 – Dec 2022*
+
+Grew follower count by **65%** and boosted reach by **583%** through structured content planning and interactive campaigns.
+
+[🔗 View Full Project](project-bachelor.qmd)
+:::

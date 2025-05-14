@@ -1,0 +1,61 @@
+---
+title: "Homepage"
+format: html
+---
+
+# 👋 Hi, I'm Jhong Wun, Huang!
+
+::::: columns
+::: {.column width="30%"}
+![](square.jpg){width="100%" style="border-radius: 90%;"}
+:::
+
+::: {.column width="70%" style="padding-left: 3rem;"}
+Welcome to my portfolio website!
+
+I’m a dual-degree student in Digital Marketing and International Business with hands-on experience in **social media**, **email marketing**, **SEO**, and **marketing analytics**.\
+I enjoy combining data and creativity to solve real-world marketing problems and make strategies more effective.
+:::
+:::::
+
+------------------------------------------------------------------------
+
+# About ME
+
+::: section-box
+## 🎓 Education
+
+**Master of Science in Digital Marketing**\
+Cal Poly Pomona\
+(Expected Graduation: Aug, 2025)
+
+**Master of International Business Administration\
+**National Yunlin University of Science and Technology\
+(Sep 2023-present)
+
+**Business Administration\
+**National Yunlin University of Science and Technology\
+(Sep 2019-Jun 2023)
+:::
+
+------------------------------------------------------------------------
+
+::: section-box
+## 💼 Interests
+
+-   Digital advertising strategy
+-   Data visualization & storytelling
+-   Consumer insights & behavioral analysis
+-   SEO/SEM and content optimization
+:::
+
+------------------------------------------------------------------------
+
+::: section-box
+## 📬 Contact
+
+-   Email: jhongwunh\@cpp.edu
+-   LinkedIn: [www.linkedin.com/in/jhong-wun-huang-625278327](http://www.linkedin.com/in/jhong-wun-huang-625278327)
+:::
+
+> Thanks for visiting my site — feel free to explore the projects using the navigation bar above!

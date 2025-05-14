@@ -1,0 +1,43 @@
+---
+title: "Digital Marketing Strategy for a Coffee Shop"
+editor: visual
+---
+
+*Status: Still in progress*
+
+This project explores how consumer behaviors toward coffee have shifted post-pandemic. The goal is to segment coffee consumers based on psychological and behavioral patterns, enabling more personalized and *effective marketing strategies*.
+
+## 🔍 Objectives
+
+-   Segment consumers using health awareness, risk perception, and behavior data
+-   Identify key clusters with distinct coffee preferences or safety concerns
+-   Provide recommendations for targeting each segment more effectively
+
+## ⚙️ Methods
+
+-   K-means clustering on psychological and behavioral variables
+-   Predictive modeling (Random Forest) to validate clusters
+-   Demographic profiling using `gtsummary` tables
+-   Visualizations with Likert-scale distributions and stacked bar charts
+
+## 📊 Data & Tools
+
+-   Dataset: COVID-19 consumer behavior survey (N = 736)
+-   Tools: R (tidyverse, cluster, gtsummary, ggplot2)
+-   Clustering based on 70% of data, predictive modeling on 30%
+
+## 📈 Preliminary Findings
+
+-   Two primary segments: cautious health-aware vs. relaxed indifferent
+-   Differences in gender, individualism/collectivism scores, and mask-wearing behavior
+-   Behavioral intention patterns vary significantly across segments
+
+## 🧠 Next Steps
+
+-   Refine variable coding for consistency
+-   Apply visualization improvements based on user feedback
+-   Finalize marketing implications and storytelling dashboard
+
+::: {style="text-align: right;"}
+[Back to Digital Marketing Projects](digital-marketing.qmd)
+:::

@@ -1,0 +1,42 @@
+---
+title: "Facebook Content Analytics & Strategy"
+editor: visual
+---
+
+## **🗂️ Data and Source**
+
+Meta Insights backend data from the official Facebook and Instagram pages of the Department of Business Administration at YunTech. Data included post reach, engagement (likes, shares, comments), and follower growth metrics from Jan 2021 to Dec 2022.
+
+## **📌 Problem Statement**
+
+The department wanted to increase student engagement, expand page reach and maintain a good relationship with students, but had no clear data-driven strategy for post planning or content themes.
+
+## **❓ Objectives**
+
+-   Identify which post formats (text/image/video) perform best
+
+-   Discover optimal posting times for maximum reach
+
+-   Use data insights to guide content planning and audience targeting
+
+## **⚙️ Approach**
+
+-   Analyzed backend engagement data using Meta Business Suite
+
+-   Tracked weekly post performance and visual content types
+
+-   Developed strategic post themes and a monthly content calendar
+
+## **📈 Results**
+
+-   Grew Facebook reach to over **16,000 people** (+50% increase)
+
+-   Added **100+ new followers** organically
+
+-   Created themed post series and promoted high-performing posts for maximum impact
+
+
+::: {style="text-align: right;"}
+[Back to Marketing Analytics](marketing-analytics.qmd)
+:::
+

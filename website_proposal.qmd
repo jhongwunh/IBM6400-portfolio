@@ -1,0 +1,7 @@
+---
+title: "Website Proposal Presentation"
+format: html
+page-layout: full
+---
+
+<iframe src="proposal.html" width="100%" height="1000px" style="border: none;"></iframe>

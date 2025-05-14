@@ -1,0 +1,56 @@
+---
+title: "Proposal"
+author: "Jhong Wun, Huang"
+format: 
+  revealjs:
+    theme: simple
+    transition: fade
+    css: proposal-style.css
+---
+
+# Website Structure
+
+-   **Homepage**: Introduction, Education, Interest & contact info\
+-   **Digital Marketing Projects**: Campaigns, tools, and analytics\
+    - Bachelor and Graduate Project\
+-   **Marketing Analytics**: Data visualization & modeling\
+    - SEO/Email marketing/Social Media marketing analytics\
+-   **Presentation**: Website Proposal Slide\
+
+# Project Section Layout
+
+- Projects are showcased using a **card-style layout** with title and summary on "Digital Marketing Projects" and "Marketing Analytics" pages.  
+- Clicking on each card reveals **more detail** on objectives, tools, and insights.  
+
+
+# Website Style Guide
+
+<div style="margin-bottom: 0.5em;">
+  <span style="display:inline-block;width:1.2em;height:1.2em;background-color:#f9f5f0;border:1px solid #ccc;margin-right:0.5em;"></span>
+  <strong>#f9f5f0</strong> — Background
+</div>
+<div style="margin-bottom: 0.5em;">
+  <span style="display:inline-block;width:1.2em;height:1.2em;background-color:#4a3f35;border:1px solid #ccc;margin-right:0.5em;"></span>
+  <strong>#4a3f35</strong> — Primary text
+</div>
+
+<div style="margin-bottom: 0.5em;">
+  <span style="display:inline-block;width:1.2em;height:1.2em;background-color:#c69c6d;border:1px solid #ccc;margin-right:0.5em;"></span>
+  <strong>#c69c6d</strong> — Link
+</div>
+
+<div style="margin-bottom: 0.5em;">
+  <span style="display:inline-block;width:1.2em;height:1.2em;background-color:#e8dccf;border:1px solid #ccc;margin-right:0.5em;"></span>
+  <strong>#e8dccf</strong> — Link hover
+</div>
+
+<div style="margin-bottom: 0.5em;">
+  <span style="display:inline-block;width:1.2em;height:1.2em;background-color:#7d8c70;border:1px solid #ccc;margin-right:0.5em;"></span>
+  <strong>#7d8c70</strong> — Navbar
+</div>
+
+# Mockup
+
+<https://jhongwunh.quarto.pub/jill/homepage.html>
+
+# Thank You

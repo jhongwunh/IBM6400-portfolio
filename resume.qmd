@@ -1,0 +1,82 @@
+---
+title: "Resume"
+editor: visual
+---
+
+::: {style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1em;"}
+<h1 style="margin: 0;">
+
+Jhong Wun Huang
+
+</h1>
+
+<a href="resume/Jhong%20Wun%20Huang_CV.pdf" style="padding: 8px 16px; background-color: #6C757D; color: white; border-radius: 6px; text-decoration: none; font-weight: 500;" target="_blank"> 📄 Download My Résumé (PDF) </a>
+:::
+
+### 🎓 Education
+
+**California State Polytechnic University, Pomona**\
+*M.S. in Digital Marketing (Dual Degree)* \| GPA: 3.82\
+Aug 2024 – Present\
+*Courses: Foundations of Customer Analytics, Marketing Analytics, Marketing Data Science*
+
+**National Yunlin University of Science and Technology**\
+*MBA in International Business Administration (Dual Degree)* \| GPA: 4.00\
+Sep 2023 – Present\
+*Courses: Competitive Dynamics, Internet Marketing, International Marketing Management*
+
+**National Yunlin University of Science and Technology**\
+*B.S. in Business Administration* \| GPA: 3.74\
+Sep 2019 – Jun 2023
+
+------------------------------------------------------------------------
+
+### 💼 Professional Experience
+
+**Trauma Resource Institute** – *Micro-Internship*\
+*Remote \| Sep 2024 – Dec 2024*\
+- Analyzed campaign performance and delivered 10+ actionable insights to boost engagement\
+- Optimized social and email marketing strategies for better course promotion
+
+**YunTech – Dept. of Business Administration** – *Teacher Assistant*\
+*Yunlin, Taiwan \| Sep 2023 – Jun 2024*\
+- Organized 8 marketing seminars and 2 company visits with 50+ participants\
+- Managed event logistics and speaker coordination
+
+**E.SUN Bank** – *Financial Customer Service Intern*\
+*Hsinchu, Taiwan \| Feb 2023 – Jun 2023*\
+- Promoted banking products to 20+ clients monthly\
+- Supported account services and client inquiries
+
+**YunTech – Office of Business Administration** – *Social Media Manager*\
+*Yunlin, Taiwan \| Jan 2021 – Dec 2022*\
+- Increased Instagram and Facebook followers by 100+, achieving 50% growth in reach\
+- Led post scheduling, content creation, and strategic promotion using Meta Business Suite\
+- Produced interviews with professors/alumni and led a content team
+
+**Government Summer Work-Study Program** – *Assistant*\
+*Hsinchu, Taiwan \| Jul 2020 – Sep 2022*\
+- Managed vaccine appointment and public service calls during the COVID-19 pandemic\
+- Supported licensing registration and social media content writing
+
+------------------------------------------------------------------------
+
+### 🏆 Projects & Awards
+
+**Social Media Manager – Marketing Graduation Project**\
+*Apr 2022 – Dec 2022*\
+- Increased followers by 65% and reach by 583% through campaign planning\
+- Used analytics tools to optimize audience targeting and post performance
+
+**Innovation Potential Award – BCM 2021**\
+*2021*\
+- Proposed a project promoting STEM using 3D printers in rural education settings
+
+------------------------------------------------------------------------
+
+### 🛠️ Skills
+
+-   **Languages**: Mandarin Chinese, English, Japanese\
+-   **Certifications**: Google Analytics, HubSpot Email Marketing & Inbound, MOS Excel\
+-   **Marketing & Analytics**: SEO, Email Marketing, Data Integration, Marketing Analytics\
+-   **Tools**: R, Google Analytics, Screaming Frog, Canva, Adobe Creative Suite, Meta Business Suite

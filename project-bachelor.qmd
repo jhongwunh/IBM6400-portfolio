@@ -1,0 +1,63 @@
+---
+title: "Bachelor Graduate Marketing Project"
+format: html
+---
+
+## Local Brand Social Media Growth
+
+*Apr 2022 – Dec 2022*
+
+## Project Summary
+
+This project was my final marketing project during my undergraduate studies. We collaborated with a local brand that needed to refresh its brand image on social media. After analyzing their social media presence, we developed three key objectives to help achieve this goal:
+
+1.  **Revitalize the brand's social media presence**
+2.  **Develop effective engagement strategies**
+3.  **Plan content with high engagement potential**
+
+## 📊 Data and Source
+
+Social media performance data collected during my Bachelor's final marketing project, including:
+
+-   Post reach
+
+-   Engagement metrics
+
+-   Follower count changes
+
+-   Target Audience information
+
+## 📌 Managerial Problem
+
+The local brand struggled with a low online presence, flat follower growth, and minimal engagement despite consistent posting.\
+The goal was to **strategically grow engagement and visibility** through structured content planning and event-based promotion.
+
+## ❓ Research Questions / Objectives
+
+-   What types of content generate the most engagement?
+-   How can a consistent posting schedule affect visibility?
+-   What interactive strategies (e.g. holiday campaigns) are most effective?
+
+## 🌟 Results & Impact
+
+-   **65% increase in followers**
+-   **583% boost in post reach**
+-   Built a monthly post strategy map
+-   Added interactive content tied to holidays
+-   Created stronger brand recognition online
+
+## 📈 Growth Chart
+
+![](Facebook%20Page%20Cumulative%20Likes%20Trend%20(From%20March%202022).png)
+
+This chart is the Facebook Page Cumulative Likes Trend.
+
+## 🧠 Reflection
+
+This project taught me how important consistency, creativity, and timing are for small brand success on social media.\
+It also helped me grow in planning and analyzing campaign performance from a strategic point of view.
+
+::: {style="text-align: right;"}
+[Back to Digital Marketing Projects](digital-marketing.qmd)
+:::
+

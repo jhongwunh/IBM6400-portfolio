@@ -1,0 +1,43 @@
+/* === Reveal.js slide background & text === */
+.reveal {
+  background-color: #f9f5f0; /* 奶茶底 */
+  color: #4a3f35; /* 咖啡字 */
+  font-family: 'Helvetica Neue', sans-serif;
+}
+
+/* === 標題樣式 === */
+.reveal h1,
+.reveal h2,
+.reveal h3 {
+  color: #8c5c3b;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+
+/* === 超連結樣式 === */
+.reveal a {
+  color: #c69c6d;
+  text-decoration: none;
+}
+
+.reveal a:hover {
+  color: #e8dccf;
+  text-decoration: underline;
+}
+
+/* === 區塊引用 === */
+.reveal blockquote {
+  border-left: 4px solid #d8b4a0;
+  padding-left: 1rem;
+  color: #7a6451;
+  background: #fdf8f5;
+}
+
+/* === 頁面內 box 樣式（需在 .qmd 用 class: box）=== */
+.box {
+  background-color: #ffffff;
+  border: 1px solid #e6ddd4;
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin: 1rem 0;
+  box-shadow: 0 4px 12px rgba(0, 0,

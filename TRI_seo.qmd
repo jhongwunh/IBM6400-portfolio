@@ -1,0 +1,48 @@
+---
+title: "SEO Micro-Internship"
+editor: visual
+---
+
+## **🗂️ Data and Source**
+
+The data used in this project came from two primary sources:
+
+1. Screaming Frog SEO Spider – to perform a technical audit of client's website pages, identifying issues such as duplicate content and readability.
+2. Google Analytics – to evaluate user behavior on key pages, including bounce rate, and time on page, helping us prioritize which pages needed the most content improvement.
+We focused on pages with high traffic but low engagement or structural issues, and used these insights to guide SEO and content enhancement recommendations.
+
+## **❓ Objectives**
+
+**Content analysis and optimization**
+
+- Identify the content with hard readability and low engagement
+
+- Optimize content structure with keywords and enhance the engagement
+
+- Create FAQ section to help users know the client better
+
+## **⚙️ Approach**
+
+- Ran technical audit using **Screaming Frog** SEO Spider and **Google Analytics**
+
+- Evaluated readability and structure for the pages with big issues
+
+- Suggested keyword placement, CTA formatting, and content structure
+
+## **❗️Limitations**
+
+- The FAQ was created based on anticipated user questions, as there was no historical database of actual user inquiries
+
+- A/B testing was not conducted, so the effectiveness of individual changes was not validated quantitatively
+
+## **📈 Results**
+
+- Created a Google sheet with each pages recommendations based on the analytic result
+
+- Created a page-level SEO checklist adopted by client’s team
+
+
+
+::: {style="text-align: right;"}
+[Back to Marketing Analytics](marketing-analytics.qmd)
+:::

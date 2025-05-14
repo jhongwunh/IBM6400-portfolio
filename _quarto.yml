@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "Jill"
+  navbar:
+    left:
+      - text: "Home"
+        href: homepage.qmd
+      - text: "Digital Marketing Projects"
+        href: digital-marketing.qmd
+      - text: "Marketing Analytics"
+        href: marketing-analytics.qmd
+      - text: "Resume"
+        href: resume.qmd
+      - text: "Website proposal Reveal.js "
+        href: website_proposal.qmd
+
+format:
+  html:
+    theme: default
+    css: assets/style.css

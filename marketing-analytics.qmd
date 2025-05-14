@@ -1,0 +1,47 @@
+---
+title: "Marketing Analytics"
+editor: visual
+---
+
+This page highlights selected projects where I applied data-driven thinking to optimize digital marketing strategies across specific area.
+
+-   **SEO Audits** – Identifying technical and content-related improvements to boost visibility
+
+-   **Email Campaign Reviews** – Enhancing structure and messaging to improve open and click-through rates
+
+-   **Social Media Performance Tracking** – Analyzing engagement data to guide content planning
+
+Whether it’s increasing engagement, improving click-through rates, or enhancing on-page content structure, these analytics-driven efforts reflect my core strength in bridging data with marketing decisions.
+
+::: project-card-textonly
+### **Search Engine Optimization**
+
+**SEO Micro-Internship**\
+*Apr 2024-Jun 2024*
+
+Use **Screaming Frog** and **Google Analytics** to analyze the website Performed on-page SEO analysis to improve visibility and content engagement across client’s course and blog pages.
+
+[🔗 View Full Project](TRI_seo.qmd)
+:::
+
+::: project-card-textonly
+### **Email Marketing Insights**
+
+**Email Marketing Micro-Internship**\
+*Sep 2024-Dec 2024*
+
+Monitored and analyzed email, analyze rival's strategy and give recommendations based on the findings.
+
+[🔗 View Full Project](TRI_email.qmd)
+:::
+
+::: project-card-textonly
+### Facebook Content Analytics & Strategy
+
+**Social Media Manager**\
+*Jan 2021-Dec 2022*
+
+Analyzed backend engagement data using Meta Business Suite. Tracked weekly post performance and visual content types. Developed strategic post themes and a monthly content calendar.
+
+[🔗 View Full Project](ma_yuntech.qmd)
+:::
